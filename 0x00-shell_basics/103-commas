@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amv && printf "\n"
+ls -amv
