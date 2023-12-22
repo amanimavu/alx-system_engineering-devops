@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# display listening ports showing the PID and name of the program to which each socket belongs
+
+lsof -i -P -n | grep "listening"
