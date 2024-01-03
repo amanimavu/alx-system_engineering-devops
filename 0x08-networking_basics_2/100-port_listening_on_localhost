@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# use netcat command to create a a server that listens on port 98 on localhost
+
+nc -l 98
